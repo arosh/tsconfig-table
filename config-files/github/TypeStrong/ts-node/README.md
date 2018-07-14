@@ -1,0 +1,1 @@
+https://github.com/TypeStrong/ts-node/blob/55741b643d917e47db164cd7dbab2fba25042619/tsconfig.json

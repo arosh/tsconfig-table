@@ -1,0 +1,1 @@
+https://github.com/Microsoft/TypeScript-React-Conversion-Guide/blob/f3a04eb711c7d95ca07a2600922e9ea3f03054d8/TicTacToe_TS/tsconfig.json

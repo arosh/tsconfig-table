@@ -1,0 +1,1 @@
+https://github.com/Microsoft/TypeScript-Babel-Starter/blob/affda56deee4a0f2b5634bb83715015e77ce5f7d/tsconfig.json

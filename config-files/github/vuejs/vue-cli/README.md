@@ -1,0 +1,1 @@
+https://github.com/vuejs/vue-cli/blob/63ff8c1b4b74f832f75046d252d567ff5d4ee4b5/packages/%40vue/cli-plugin-typescript/generator/template/tsconfig.json

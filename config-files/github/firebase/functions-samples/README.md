@@ -1,0 +1,1 @@
+https://github.com/firebase/functions-samples/blob/b404482342906ee1b46dddb4c75667685ab098a1/typescript-getting-started/functions/tsconfig.json

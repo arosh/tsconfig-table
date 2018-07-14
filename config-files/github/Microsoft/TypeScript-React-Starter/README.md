@@ -1,0 +1,1 @@
+https://github.com/Microsoft/TypeScript-React-Starter/blob/b016ad12ebdff80869a9248c3357f498dcdbb06b/tsconfig.json

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>tsconfig.json table</title>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th scope="col">Option Name</th>
+                <% fileNames.forEach(fileName => { %>
+                    <th scope="col"><%= fileName %></th>
+                <% }); %>
+            </tr>
+        </thead>
+        <tbody>
+            <% optionNames.forEach(optionName => { %>
+                <tr>
+                    <th scope="row"><%= optionName %></th>
+                    <% fileNames.forEach(fileName => { %>
+                        <% if (optionName in options[fileName]) { %>
+                            <% if (typeof options[fileName][optionName] === 'object') { %>
+                                <td><%= JSON.stringify(options[fileName][optionName]) %></td>
+                            <% } else { %>
+                                <td><%= options[fileName][optionName] %></td>
+                            <% } %>
+                        <% } else { %>
+                            <td></td>
+                        <% } %>
+                    <% }); %>
+                </tr>
+            <% }); %>
+        </tbody>
+    </table>
+</body>
+
+</html>

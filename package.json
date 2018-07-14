@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "glob": "^7.1.2",
+    "mz": "^2.7.0",
+    "relaxed-json": "^1.0.1",
+    "strip-json-comments": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/ejs": "^2.6.0",
+    "@types/glob": "^5.0.35",
+    "@types/mz": "0.0.32",
+    "@types/node": "^10.5.2",
+    "@types/strip-json-comments": "0.0.30",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}

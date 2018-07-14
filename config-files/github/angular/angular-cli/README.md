@@ -1,0 +1,1 @@
+https://github.com/angular/angular-cli/blob/09d019e73308f6914a94f99284f7d54063da420e/packages/schematics/angular/workspace/files/tsconfig.json

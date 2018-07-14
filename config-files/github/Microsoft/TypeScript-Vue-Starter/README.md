@@ -1,0 +1,1 @@
+https://github.com/Microsoft/TypeScript-Vue-Starter/blob/c243b11a6f827e780a5163999bc472c95ff5a0e0/tsconfig.json

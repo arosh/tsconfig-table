@@ -1,0 +1,1 @@
+https://github.com/Microsoft/TypeScript-Node-Starter/blob/670028088f43123c6afc9eaec23337dcda265110/tsconfig.json

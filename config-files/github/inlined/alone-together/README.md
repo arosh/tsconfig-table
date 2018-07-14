@@ -1,0 +1,1 @@
+https://github.com/inlined/alone-together/blob/5208514a075aedc91b5e36d2cd286a04afea2dcc/functions/tsconfig.json
